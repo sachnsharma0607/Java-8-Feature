@@ -8,7 +8,7 @@ public static void main(String[] args) {
 	i.m1("sachin Sharma");
 	i.m1("Ankita Bhat");
 	 i=(s)->{
-		System.out.println("Lenght of the String : "+s.replaceAll("\\s+","_"));
+		System.out.println("Lenght of the String : "+s.replaceAll("\\s+","_	i"));
 	};
 	i.m1("Ankita B Bhat");
 }
