@@ -8,10 +8,10 @@ public static void main(String[] args) {
 	i.m1("sachin Sharma");
 	i.m1("Ankita Bhat");
 	 i=(s)->{
-		System.out.println("Lenght of the String : "+s.replaceAll("\\s+","_	i"));
+		System.out.println("Replace of space of the String : "+s.replaceAll("\\s+","_"));
 	};
 	i.m1("Ankita B Bhat");
-}
+	}
 }
 
 @FunctionalInterface
