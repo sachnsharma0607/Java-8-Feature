@@ -10,8 +10,7 @@ public class Java_8_Example01 {
 		Funcational_interfaceExample i=	()->{
 			System.out.println("Lamda Example : Hello");
 		};
-		i.m1();
-		
+		i.m1();	
 	}
 	
 	
